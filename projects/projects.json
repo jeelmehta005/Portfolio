@@ -1,0 +1,22 @@
+[
+{
+    "name": "Digital Clock",
+    "desc": "This is a my 1st Project. This is a real show time, date & day. that is a using HTML, CSS & JS.",
+    "image": "port1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://digi-clockcom.vercel.app/",
+      "code": "https://github.com/jeelmehta005/Digi-Clock"
+    }
+  },
+  {
+    "name": "Weather",
+    "desc": "This is a my 2st Project. This is a real show time weather. That is a using HTML, CSS.",
+    "image": "port2",
+    "category": "basicweb",
+    "links": {
+      "view": "https://weathercom.vercel.app/",
+      "code": "https://github.com/jeelmehta005/Weather"
+    }
+  }
+]
