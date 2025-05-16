@@ -18,5 +18,16 @@
       "view": "https://weathercom.vercel.app/",
       "code": "https://github.com/jeelmehta005/Weather"
     }
+  },
+
+     {
+    "name": "My portfolio",
+    "desc": "This is a my main Project. That is a using HTML, CSS, JS,JSON.",
+    "image": "port2",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jeelmehtaport.netlify.app/",
+      "code": "https://github.com/jeelmehta005/Portfolio"
+    }
   }
 ]
