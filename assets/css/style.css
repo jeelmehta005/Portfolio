@@ -604,6 +604,7 @@ header .navbar ul li a:hover {
   text-align: left;
   justify-content: center;
   align-items: center;
+  font-weight: bold;
 }
 .education h4 {
   font-size: 2rem;
@@ -1119,16 +1120,19 @@ form .button-area {
   color: #ccc;
   padding: 0.7rem 0;
   text-transform: none;
+  font-weight: bold;
 }
 .footer .box-container .box p i {
   padding-right: 1rem;
   color: #ffae00;
+  font-weight: bold;
 }
 .footer .box-container .box a {
   font-size: 1.5rem;
   color: rgb(238, 238, 238);
   padding: 0.3rem 0;
   display: block;
+  font-weight: bold;
 }
 .footer .box-container .box a:hover {
   color: #ffae00;
@@ -1137,6 +1141,7 @@ form .button-area {
   display: flex;
   flex-wrap: wrap;
   padding: 1rem 0;
+  font-weight: bold;
 }
 .footer .box-container .box .share a {
   height: 4rem;
@@ -1150,6 +1155,7 @@ form .button-area {
   background: rgb(230, 230, 230);
   color: #02094b;
   border: none;
+  font-weight: bold;
 }
 .footer .box-container .box .share a:hover {
   background: transparent;
